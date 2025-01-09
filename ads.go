@@ -25,7 +25,7 @@
 package ads
 
 import (
-	"github.com/sconklin/go-i2c"
+	"github.com/prutonis/go-i2c"
 )
 
 // SensorType identify which Bosch Sensortec

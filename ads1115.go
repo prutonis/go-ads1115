@@ -24,7 +24,8 @@ package ads
 
 import (
 	"errors"
-	i2c "github.com/sconklin/go-i2c"
+
+	i2c "github.com/prutonis/go-i2c"
 )
 
 // ads1115 A/D memory map
